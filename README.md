@@ -24,4 +24,4 @@ Google Sheets, Google Apps Script, Google Forms, Dashboard, Automation
 
 ## Workflow
 
-<img src="images/workflow.png" width="900">
+![Workflow](workflow.png)
