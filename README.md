@@ -21,3 +21,7 @@ Google Sheets, Google Apps Script, Google Forms, Dashboard, Automation
 ## Web Application
 
 ![Web App](webapp.png)
+
+## Workflow
+
+<img src="images/workflow.png" width="900">
