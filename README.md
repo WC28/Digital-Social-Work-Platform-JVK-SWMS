@@ -18,4 +18,6 @@ Google Sheets, Google Apps Script, Google Forms, Dashboard, Automation
 - Supported real-time service monitoring
 - Prepared data for future readmission and SDoH research
 
-#    webapp.png
+## Web Application
+
+![Web App](webapp.png)
